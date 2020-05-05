@@ -1,15 +1,16 @@
 Springer has released 65 Machine Learning and Data books for free
 
 The 65 books list:
-The Elements of Statistical Learning
-Trevor Hastie, Robert Tibshirani, Jerome Friedman
-http://link.springer.com/openurl?genre=book&isbn=978-0-387-84858-7
-Introductory Time Series with R
-Paul S.P. Cowpertwait, Andrew V. Metcalfe
-http://link.springer.com/openurl?genre=book&isbn=978-0-387-88698-5
-A Beginner’s Guide to R
+
+- [The Elements of Statistical Learning](http://link.springer.com/openurl?genre=book&isbn=978-0-387-84858-7)
+- Trevor Hastie, Robert Tibshirani, Jerome Friedman
+
+- [Introductory Time Series with R](http://link.springer.com/openurl?genre=book&isbn=978-0-387-88698-5)
+- Paul S.P. Cowpertwait, Andrew V. Metcalfe
+
+- [A Beginner’s Guide to R](http://link.springer.com/openurl?genre=book&isbn=978-0-387-93837-0)
 Alain Zuur, Elena N. Ieno, Erik Meesters
-http://link.springer.com/openurl?genre=book&isbn=978-0-387-93837-0
+
 Introduction to Evolutionary Computing
 A.E. Eiben, J.E. Smith
 http://link.springer.com/openurl?genre=book&isbn=978-3-662-44874-8
